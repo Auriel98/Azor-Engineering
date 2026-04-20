@@ -51,7 +51,7 @@ export default function Navbar() {
           onClick={() => handleNavigation("hero")}
         >
           <img
-            src="/Logo_AZOR.png"
+            src="/logo_AZOR.png"
             alt="Azor Engineering"
             className="h-14 md:h-16 lg:h-20 object-contain"
           />
